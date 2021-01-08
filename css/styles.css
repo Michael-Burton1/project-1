@@ -11,7 +11,8 @@
   float:right;
   width: 20%;
   background-color: bisque;
-  border-color: black;
+  border: 5px black;
+  display: block;
   position:fixed;
   right: 0;
   top: 0px;
@@ -24,6 +25,14 @@
   text-decoration: underline;
 }
 
+
+.about{
+  border: 4px black;
+  padding: 1px;
+  display: block;
+  width: 30%;
+
+}
 body{
   background-color: rgba(73, 48, 2, 0.849);
 }

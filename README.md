@@ -21,8 +21,8 @@ _This is the webpage for the professional portfolio landing page for Michael BUr
 
 ## Known Bugs
 
-*_Any known issues_
-*_should go here_
+*_border not showing up in sidebar (problem with stylesheet)_
+*_ _
 
 ##Licencing
 
