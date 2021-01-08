@@ -6,3 +6,12 @@
   font-family: helvetica;
   font-style: normal;
 }
+
+.sidebar{
+  float:right;
+}
+
+.sidetitle{
+  font-family: helvetica;
+  text-decoration: underline;
+}
