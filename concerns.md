@@ -5,4 +5,4 @@
 
 3. if it is the later do I then need to make a clone of just the branch to code in that branch?
 
-4. 
+4. To whom it may concern: I spent the majority of the last 3 hours of the day looking up and testing lines that just didn't work! I feel like I got the majority of the assignment completed just after lunch and then when I went back to try some styling with css I just hit a wall trying to research what I was doing inccorrectly.
