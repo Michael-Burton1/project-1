@@ -12,10 +12,18 @@
   width: 30%;
   background-color: bisque;
   border-color: black;
-  border-radius: 3px;
+  position:fixed;
+  right: 0;
+  top: 0px;
+
+
 }
 
 .sidetitle{
   font-family: helvetica;
   text-decoration: underline;
+}
+
+body{
+  background-color: rgba(73, 48, 2, 0.849);
 }

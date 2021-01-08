@@ -1,6 +1,6 @@
 #_project-1_
 
-#### _brief discription_
+#### _profolio landing page_
 
 ##### By _**Michael Burton**_
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_Detailed discription_
+_This is the webpage for the professional portfolio landing page for Michael BUrton. It includes a picture, about me, education, and hobbies section. It also includes links to some of the projects he has worked on._
 
 ## Setup/Instalation Requirements
 
