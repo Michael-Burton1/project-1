@@ -20,7 +20,7 @@ _This is the webpage for the professional portfolio landing page for Michael BUr
 2. input these commands into command line:
 
 * cd desktop
-* git clone https://github.com/Michael-Burton1/Bands.git
+* git clone https://github.com/Michael-Burton1/project-1.git
 * code .
 
 ## Known Bugs
