@@ -31,7 +31,7 @@ you can view this webpage by checking out the url:
 
 ## Licencing
 
-Licenced under the [MIT Licence](Licence).
+Licenced under the [MIT Licence1](/Users/michaelburton/Desktop/Epicodus/projects/project-1/Licence.txt).
 
 ## Contact Information
 
