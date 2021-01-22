@@ -31,7 +31,7 @@ you can view this webpage by checking out the url:
 
 ## Licencing
 
-_MIT_
+Licenced under the [MIT Licence](Licence).
 
 ## Contact Information
 
