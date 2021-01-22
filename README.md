@@ -29,9 +29,9 @@ you can view this webpage by checking out the url:
 *_border not showing up in sidebar (problem with stylesheet)_
 *_ _
 
-## Licencing
+## Licensing
 
-Licenced under the [MIT Licence](LICENCE).
+Licensed under the [MIT License](LICENSE).
 
 ## Contact Information
 
